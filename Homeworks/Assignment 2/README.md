@@ -3,6 +3,6 @@
 *Instructions: [Assignment 2 Instructions.pdf](https://github.com/odnaiviv/CSC2720/blob/main/Homeworks/Assignment%202/Assignment%202%20Instructions.pdf)*
 
 >My HW2 Code: 
->* Part 1 : FindPairs.java
->* Part 2 : ArrayElements.java
->* Part 3 : AscendingEvenOdd.java
+>* Part 1 : [FindPairs.java](https://github.com/odnaiviv/CSC2720/blob/main/Homeworks/Assignment%202/FindPairs.java)
+>* Part 2 : [ArrayElements.java](https://github.com/odnaiviv/CSC2720/blob/main/Homeworks/Assignment%202/ArrayElements.java)
+>* Part 3 : [AscendingEvenOdd.java](https://github.com/odnaiviv/CSC2720/blob/main/Homeworks/Assignment%202/AscendingEvenOdd.java)
